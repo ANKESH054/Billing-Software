@@ -1,0 +1,8 @@
+ Create a Admin account first, click on signup for doing so. 
+ Software will assign your Admin password as Access code for admin account, You have to use access code for make a login as admin.
+ You have to create a user and assign access code for user login.
+ You have to set values(rates) to the items, click on 'set' in menu bar and then click on 'Items value and Taxs', type rates in entry and click on change to write changes.
+ Now, you are ready to create a new bill, if you are a admin a nd on admin console the you have to click on 'bill' and then 'New billing window' to create a new bill.
+ Then, you have to enter the customer details and then quantity of items in every entry if quantity is '0' then enter '0' in entry.
+ Now, click on total to create total value it. and then generate bill, bill will be generated in billing area.
+ 
